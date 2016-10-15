@@ -4,17 +4,22 @@ This is the format you should try to use when posting a bug report.
 
 When posting bugs, please use this template:
 
-    Operating System:  
+    Operating System:
     
-    Version of Java:  
     
-    Pack version:  
+    Version of Java:
     
-    Description of problem:  
     
-    Steps to reproduce problem:  
+    Pack version:
     
-    Crash/error report:  
+    
+    Description of problem:
+    
+    
+    Steps to reproduce problem:
+    
+    
+    Crash/error report:
     ```
     
     ```
